@@ -30,6 +30,7 @@ public class ColorfulCircles extends Application {
     Group root = new Group();
     Scene scene = new Scene(root, 800, 600, Color.BLACK);
     primaryStage.setScene(scene);
+    //testing
 
     Group circles = new Group();
     for (int i = 0; i < 30; i++) {
